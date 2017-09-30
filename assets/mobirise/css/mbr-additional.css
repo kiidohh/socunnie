@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+
+
+
+
+#header4-0 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+}
+#header4-0 P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-j P {
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+}
+#header3-j H3 {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+}
+#features1-2 .mbr-section__col .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+}
+#header2-f H1 {
+  text-align: left;
+  font-size: 72px;
+  font-family: 'Indie Flower', cursive;
+}
+#image2-3 SMALL {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 19px;
+}
+#header2-e H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+  text-align: right;
+}
